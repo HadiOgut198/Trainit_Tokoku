@@ -6,7 +6,7 @@ include "koneksi.php";
 <html lang="en">
 
 <head>
-    <title>Error 404</title>
+    <title>Error 123</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
